@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
                 setCita();
             }
         });
+        tv_cita.setSelected(true);
 
         setCita();
     }

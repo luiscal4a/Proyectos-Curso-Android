@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CreaTuCita</string>
+    <string name="activity_main_et_cita">Introduce tu cita</string>
+    <string name="activity_main_btn_next">Generar cita</string>
+</resources>
