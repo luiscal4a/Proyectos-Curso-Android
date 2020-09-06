@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PopApp</string>
+
+    <string name="str_alert">Alert dialog</string>
+    <string name="str_alert_list">Alert dialog lista</string>
+    <string name="str_alert_multiple">Alert dialog multiple</string>
+    <string name="str_alert_custom">Alert dialog custom</string>
+    <string name="str_toast">Toast corto</string>
+    <string name="str_toast_long">Toast largo</string>
+
+    <string name="str_dialog_title">Titulo dialog</string>
+    <string name="str_dialog_message">Hola mundo</string>
+
+    <string name="str_dialog_ok">Ok</string>
+    <string name="str_dialog_cancel">Cancel</string>
+
+    <string name="str_toast_message">Esto es un toast corto</string>
+    <string name="str_toast_long_message">Esto es un toast largo</string>
+</resources>
