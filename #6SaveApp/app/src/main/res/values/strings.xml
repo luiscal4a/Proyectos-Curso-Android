@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="str_text_hint">Introduce el texto a guardar</string>
+    <string name="str_button_text">Guardar</string>
+</resources>
