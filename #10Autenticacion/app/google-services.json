@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969237635902",
+    "project_id": "androidforum-79246",
+    "storage_bucket": "androidforum-79246.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969237635902:android:bb670191dfa564d42a026f",
+        "android_client_info": {
+          "package_name": "com.example.autenticacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969237635902-iepqpupt1d8vh8lru7k1vps7kjm83q0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0KRQKx41m7C0BYgtCVOxSbMdjLt-VrZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969237635902-iepqpupt1d8vh8lru7k1vps7kjm83q0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
